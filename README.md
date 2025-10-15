@@ -61,6 +61,3 @@ Speech Input → Speech-to-Text → NLP Processing → Scoring Algorithms → Fe
 - Human-like feedback generation through NLP  
 - Interactive UI/UX development for AI-based educational tools  
 
----
-
-Would you like me to create a **`requirements.txt`** and a short **Streamlit app description section** for this same project (so you can deploy it easily)?
