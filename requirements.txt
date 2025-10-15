@@ -1,0 +1,22 @@
+# Core Python Libraries
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+
+# NLP Libraries
+nltk
+spacy
+textblob
+transformers
+
+# Speech and Audio Processing
+SpeechRecognition
+pyaudio
+librosa
+soundfile
+
+# Interface / App
+streamlit
+streamlit-option-menu
